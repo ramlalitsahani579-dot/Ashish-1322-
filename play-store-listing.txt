@@ -1,0 +1,45 @@
+DOMI — PLAY STORE LISTING (copy-paste ke liye ready)
+======================================================
+
+APP NAME:
+Domi — Connect & Create
+
+SHORT DESCRIPTION (80 character limit):
+Photos, videos, reels aur stories share karein — apni duniya ke saath judiye.
+
+FULL DESCRIPTION (copy-paste karein Play Console mein):
+------------------------------------------------------
+Domi ek naya social platform hai jahan aap apni zindagi ke pal photos, videos
+aur stories ke through duniya ke saath share kar sakte hain।
+
+DOMI PAR KYA MIL SAKTA HAI:
+✨ Feed — dost aur creators ki photos/videos dekhein, like aur comment karein
+📖 Stories — 24-ghante ke liye apne pal share karein
+🎬 Reels — short vertical videos dekhein aur banayein
+💬 Messages — seedha kisi se bhi baat karein
+🔍 Explore — naye creators aur content discover karein
+👤 Profile — apni pehchaan banayein, followers dekhein
+
+Domi Assistant aapki madad karta hai achi quality content banane, video
+editing tips aur app istemal karne mein।
+
+Domi ko Deepak aur unki team ne banaya hai, taaki har koi apni creativity
+duniya ke saamne rakh sake।
+
+CATEGORY: Social
+
+CONTENT RATING: Isko fill karne ke liye Play Console ka questionnaire bharna
+hoga — usme "user-generated content" (photos/videos/messages) ka option
+select karna zaroori hai.
+
+PRIVACY POLICY URL:
+(domi-privacy-policy.html file ko kisi bhi free hosting jaise GitHub Pages,
+Netlify, ya Google Sites par daalkar uska link yahan daalein — Play Store is
+link ko maangta hai)
+
+APP ICON:
+icon-512.png istemal karein (512x512, PNG, no transparency issues)
+
+SCREENSHOTS:
+screenshot-feed.png, screenshot-explore.png, screenshot-profile.png
+(Play Store ko kam se kam 2 screenshot chahiye, phone ke liye)
